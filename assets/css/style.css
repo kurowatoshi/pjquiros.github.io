@@ -9,7 +9,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/gif6.gif") no-repeat;
+  background: #040404 url("../img/gif7.gif") no-repeat;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
